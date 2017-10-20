@@ -1,0 +1,16 @@
+{
+  "autoload": {
+    "psr-4": {
+      "":"src/"
+    }
+  },
+  "repositories":[
+    {
+      "type": "vcs",
+      "url": "git@github.com:KernelDeimos/FinalPHP.git"
+    }
+  ],
+  "require": {
+    "dubedev/finalphp": "dev-master"
+  }
+}

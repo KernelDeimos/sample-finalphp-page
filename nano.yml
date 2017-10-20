@@ -1,0 +1,5 @@
+mode: test
+router:
+  base_path: /websites/test-site
+errors:
+  errors_to_exceptions: true
